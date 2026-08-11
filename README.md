@@ -1,6 +1,8 @@
 # Banking Loan Default & Risk Analysis (Power BI)
 
-### Dashboard Link : https://insightbi99-my.sharepoint.com/:u:/g/personal/sahilbhowad_insightbi99_onmicrosoft_com/IQB2uEB3_KeXR7JezLlB1jvcAVNr9ucs7_h3YZHf_IQNN_g?e=i6hHKX
+### Project File & Report Access:
+* **Download Power BI Desktop File (`.pbix`):** [Download `.pbix` File via OneDrive](https://insightbi99-my.sharepoint.com/:u:/g/personal/sahilbhowad_insightbi99_onmicrosoft_com/IQB2uEB3_KeXR7JezLlB1jvcAVNr9ucs7_h3YZHf_IQNN_g?e=i6hHKX)
+> *Note: Click "Download" on the OneDrive page to open the complete interactive model in Power BI Desktop. Full report page snapshots are provided below.*
 
 ## Problem Statement
 
