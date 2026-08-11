@@ -1,6 +1,6 @@
 # Banking Loan Default & Risk Analysis (Power BI)
 
-### Dashboard Link : https://insightbi99-my.sharepoint.com/:u:/g/personal/sahilbhowad_insightbi99_onmicrosoft_com/IQB2uEB3_KeXR7JezLlB1jvcAVNr9ucs7_h3YZHf_IQNN_g?e=apJmSr
+### Dashboard Link : https://insightbi99-my.sharepoint.com/:u:/g/personal/sahilbhowad_insightbi99_onmicrosoft_com/IQB2uEB3_KeXR7JezLlB1jvcAVNr9ucs7_h3YZHf_IQNN_g?e=i6hHKX
 
 ## Problem Statement
 
